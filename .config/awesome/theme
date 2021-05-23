@@ -1,0 +1,27 @@
+-- awesome 3.1 theme file by xcession
+-- last update: 21/12/08
+
+--------------------------------------------------------------------------------
+
+font                = Terminus 8
+
+bg_normal           = #000000AA
+fg_normal           = #EFEFEF
+
+bg_focus            = #000000
+fg_focus            = #FF0033
+
+bg_urgent           = #FF0033AA
+fg_urgent           = #EFEFEF
+
+border_width        = 1
+border_normal       = #4C4C4C66
+border_focus        = #FF003366
+border_marked       = #FF000066
+
+taglist_squares = true
+titlebar_close_button = true
+
+# You can use your own command to set your wallpaper
+# wallpaper_cmd = nitrogen --restore
+
